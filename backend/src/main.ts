@@ -6,7 +6,7 @@ import { sum } from './sum'
 
 const PORT = process.env.PORT ?? 8080
 // フロントエンドの URL を 'http://frontend.example.com' のように指定してください。
-const CORS_ORIGIN = undefined
+const CORS_ORIGIN = 'http://udemy-githubactions-tomono.s3-website-us-east-1.amazonaws.com'
 
 const app = express()
 
