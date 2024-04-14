@@ -1,3 +1,5 @@
+[![backend](https://github.com/ekity1002/udemy_github_CICD/actions/workflows/backend.yml/badge.svg)](https://github.com/ekity1002/udemy_github_CICD/actions/workflows/backend.yml)
+
 # サンプルアプリケーション
 
 静的なフロントエンドと Web API から成る、足し算アプリケーションです。
@@ -26,3 +28,4 @@ npm ci
 npm run build
 node dist/index.js
 ```
+
